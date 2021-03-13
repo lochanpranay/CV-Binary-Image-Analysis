@@ -1,4 +1,4 @@
-# CV-Binary-Image-Analysis
+# CV-Grayscale-Image-Analysis
 
 
 For the given gray level input image(.PGM ASCII) the program will remove the noise and find different
